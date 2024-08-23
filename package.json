@@ -1,0 +1,25 @@
+{
+  "name": "slack-facebook-integration",
+  "version": "1.0.0",
+  "description": "This project integrates Facebook with Slack, automatically sending a message to a designated Slack channel when a new message is received in the Facebook inbox.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anandsolucky/slack-facebook-integration.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anandsolucky/slack-facebook-integration/issues"
+  },
+  "homepage": "https://github.com/anandsolucky/slack-facebook-integration#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
