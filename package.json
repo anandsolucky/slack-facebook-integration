@@ -4,7 +4,8 @@
   "description": "This project integrates Facebook with Slack, automatically sending a message to a designated Slack channel when a new message is received in the Facebook inbox.",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon src/app.js"
+    "dev": "nodemon src/app.js",
+    "start": "node src/app.js"
   },
   "repository": {
     "type": "git",
