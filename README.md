@@ -4,6 +4,10 @@
 
 This project integrates Facebook with Slack, automatically sending a message to a designated Slack channel when a new message is received in the Facebook inbox.
 
+## 📚 Dev Setup Guide
+
+- Before jumping on the project details checkout this dev setup guide to setup slack and facebook apps -> [Slack-Facebook Integration Setup Guide](https://scientific-flyingfish-577.notion.site/Slack-Facebook-Integration-Setup-Guide-3403f306130b45b29fb3b1e690d926a8)
+
 ## 🌟 Features
 
 - Real-time notifications to Slack for every new Facebook messages & attachments received on your page.
