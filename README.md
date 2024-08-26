@@ -83,6 +83,10 @@ Below is the structure of the project and a brief description of each file:
    FACEBOOK_PAGE_ACCESS_TOKEN=your_facebook_page_access_token`
    ```
 
+### 🙋🏻‍♂️ Video Walkthrough
+
+- Here's the video walkthrough of the entire project - [Video](https://www.loom.com/share/c335113551534ea1b88088008208e21f?sid=39dd7ca5-e9ee-4856-a24e-ee688d5be3cf)
+
 ### 🔄 Workflow Overview
 
 - The server starts and listens for incoming requests on the specified port.
